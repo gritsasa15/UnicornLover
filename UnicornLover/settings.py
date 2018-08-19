@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'lifelover',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': 'root',
         'PORT': '3306',
     }
 }
